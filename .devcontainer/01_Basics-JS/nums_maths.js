@@ -1,43 +1,43 @@
 const score = 400
-// console.log(score)
+console.log(score)
 
 const balance = new Number(200)
-// console.log(balance)
+console.log(balance)
 
 //if you want to change any number to string
 
-// console.log(balance.toString())
+console.log(balance.toString())
 
-// console.log(typeof balance)
+console.log(typeof balance)
 
 // we use to fixed method when we are making any ecommerce website
 
 const newnum = 430
-// console.log(newnum.toFixed(2))
+console.log(newnum.toFixed(2))
 
 const secnum = 23.9876
-// console.log(secnum.toPrecision(4))
+console.log(secnum.toPrecision(4))
 
 // for big hundered value we can convert it into locale string having commas with ref of us standards
 
 const hundered = 10000000
 
-// console.log(hundered.toLocaleString())
+console.log(hundered.toLocaleString())
 
 //if you want indian system
 
-// console.log(hundered.toLocaleString('en-IN'))
+console.log(hundered.toLocaleString('en-IN'))
 
 
 
 //+++++++++++++++++++++ MATHS ++++++++++++++++++++++++++
 
 
-// console.log(Math)
-// console.log(Math.abs(-5))
-// console.log(Math.ceil(4.2))
-// console.log(Math.floor(4.9))
-// console.log(Math.round(4.3))
+console.log(Math)
+console.log(Math.abs(-5))
+console.log(Math.ceil(4.2))
+console.log(Math.floor(4.9))
+console.log(Math.round(4.3))
 
 
 //imp thing used later in our website formation
